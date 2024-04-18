@@ -1,7 +1,9 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102&layout=compact)
 
 <!--
 **[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinswan102)](https://github.com/kevinswan102/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102)
 -->
 
 <!--
