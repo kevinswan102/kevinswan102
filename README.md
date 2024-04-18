@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102)
 
 <!--
 **[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinswan102)](https://github.com/kevinswan102/github-readme-stats)
