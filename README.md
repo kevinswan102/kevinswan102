@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinswan102)](https://github.com/kevinswan102/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinswan102&hide_progress=true)
+
+<!--
+**[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinswan102)](https://github.com/kevinswan102/github-readme-stats)
+-->
 
 <!--
 **kevinswan102/kevinswan102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
